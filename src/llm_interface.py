@@ -59,7 +59,7 @@ class LLMInterface:
                 if 'AMLA' in line or 'CDB' in line or 'SOP' in line:
                     key_terms.append(line.strip())
 
-        # Limit to a few unique items
+        # Limit to unique items
         articles = list(set(articles))[:2]
         key_terms = list(set(key_terms))[:3]
 
@@ -159,7 +159,7 @@ FORMAT YOUR RESPONSE with these exact markdown conventions:
 1. Use "## " for main section headers (with a space after ##)
 2. Use "### " for subsection headers (with a space after ###)
 3. Use "* " for first-level bullet points (with a space after *)
-4. Use "  * " for second-level bullet points (two spaces, then *, then space)
+4. Avoid unnecessary nesting of bullet points. Only use "  * " for second-level bullet points when absolutely required.
 5. Use "**bold text**" for important terms or article references
 6. Start with a brief overview, then use sections with clear headers
 
@@ -173,6 +173,7 @@ FORMAT YOUR ANSWER LIKE THIS:
 - Start with a clear, direct answer to the question in 1-2 sentences
 - Then organize information using clear section headers (e.g., "## Documentation Requirements")
 - Use bullet points for listing requirements, procedures, or steps
+- Avoid unnecessary nesting of bullet points
 - Bold important terms and regulatory references using **bold** markdown
 - Always include specific article references when available
 - Be precise and detailed but focused on what's most relevant to the question

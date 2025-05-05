@@ -242,10 +242,13 @@ HTML_TEMPLATE = '''
                     .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')  // Bold
                     .replace(/## (.*?)\\n/g, '<h3>$1</h3>')            // Headers
                     .replace(/- (.*?)\\n/g, '<li>$1</li>')             // List items
-                    .replace(/<li>/g, '<ul><li>').replace(/<\/li>\\n/g, '</li></ul>') // Wrap list items
                     .replace(/\\n\\n/g, '<br><br>')                    // Paragraphs
                     .replace(/\\n/g, '<br>');                         // Line breaks
-
+                
+                // Ensure proper wrapping of <ul> around <li> items
+                formattedAnswer = formattedAnswer.replace(/(<li>.*?<\/li>)/g, function(match) {
+                    return '<ul>' + match + '</ul>';
+                });
                 assistantMessage.innerHTML = formattedAnswer;
 
                 // Add sources if available
