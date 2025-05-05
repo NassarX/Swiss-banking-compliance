@@ -1,0 +1,181 @@
+TITLE: Crypto Assets and Virtual Currency Regulations - Swiss Compliance Framework
+
+1. INTRODUCTION AND REGULATORY APPROACH
+
+Switzerland has adopted a technology-neutral, principles-based approach to regulating crypto assets and virtual currencies. Rather than creating a specific cryptocurrency law, Switzerland applies existing financial market regulations according to the principle of "same business, same risks, same rules."
+
+Key regulatory frameworks applicable to crypto assets include:
+- Anti-Money Laundering Act (AMLA)
+- Financial Services Act (FinSA)
+- Financial Institutions Act (FinIA)
+- Banking Act (BankA)
+- Financial Market Infrastructure Act (FinMIA)
+- Collective Investment Schemes Act (CISA)
+
+2. TYPES OF CRYPTO ASSETS AND CLASSIFICATION
+
+2.1 Token Classification
+- Payment tokens (cryptocurrencies)
+- Utility tokens
+- Asset tokens (security tokens)
+- Hybrid tokens
+
+EXAMPLE:
+Classification assessment process:
+- Analyze token's economic function and purpose
+- Review white paper and technical documentation
+- Assess rights conveyed to token holders
+- Determine applicable regulatory framework based on classification
+- Document classification analysis and rationale
+- Monitor for changes that might affect classification
+
+2.2 Regulatory Implications of Classification
+- Payment tokens: Subject to AMLA, potentially BankA
+- Utility tokens: May be exempt if purely for access purposes
+- Asset tokens: Subject to securities regulation (FinSA/FinMIA)
+- Hybrid tokens: Subject to multiple regulatory frameworks
+
+EXAMPLE:
+Regulatory determination for security token:
+- Classify token as asset token based on investment characteristics
+- Apply securities regulations under FinSA
+- Implement prospectus requirements for public offerings
+- Ensure trading occurs on authorized platforms
+- Apply relevant conduct rules for distribution
+- Document basis for regulatory treatment
+
+3. AML/KYC REQUIREMENTS FOR CRYPTO ASSETS
+
+3.1 Scope of AML Regulation
+- Virtual currency exchange services
+- Custody wallet providers
+- Trading platforms
+- Issuers of payment tokens
+- Crypto asset fund managers
+
+EXAMPLE:
+AML program implementation for crypto exchange:
+- Register with SRO or obtain FINMA license
+- Implement comprehensive KYC procedures for all clients
+- Verify identity for transactions above CHF 1,000
+- Establish beneficial ownership for corporate clients
+- Apply enhanced due diligence for high-risk clients
+- Implement blockchain analytics for transaction monitoring
+- Maintain all records for 10 years
+
+3.2 Travel Rule Implementation
+- Identify originator and beneficiary information
+- Transmit required information with transactions
+- Implement technical solutions for compliance
+- Verify information for incoming transactions
+
+EXAMPLE:
+Travel Rule compliance approach:
+- Implement technical solution for information exchange (e.g., OpenVASP protocol)
+- Collect and verify originator information
+- Transmit required data with all transactions
+- Reject incoming transactions lacking required information
+- Document compliance with Travel Rule requirements
+- Keep records of all information exchanges
+
+4. BANKING SERVICES FOR CRYPTO BUSINESSES
+
+4.1 Crypto Banking Requirements
+- Special provisions for crypto custody
+- Specific risk management requirements
+- Capital treatment of crypto assets
+- Liquidity requirements
+
+EXAMPLE:
+Crypto custody implementation for banks:
+- Implement cold storage for majority of assets
+- Establish multi-signature authorization protocols
+- Create specific risk assessment for crypto custody
+- Apply appropriate capital charges for crypto positions
+- Implement blockchain monitoring for transactions
+- Develop specific business continuity procedures for crypto operations
+- Document all crypto-specific controls and procedures
+
+4.2 Banking Services for Crypto Clients
+- Enhanced due diligence requirements
+- Source of funds verification
+- Ongoing monitoring considerations
+- Risk-based approach application
+
+EXAMPLE:
+Onboarding process for crypto clients:
+- Conduct enhanced due diligence on client background
+- Verify source of crypto assets through blockchain analysis
+- Implement ongoing transaction monitoring using specialized tools
+- Apply risk-based approach to determine monitoring intensity
+- Document crypto-specific risk assessment
+- Maintain evidence of source of funds verification
+
+5. FINTECH LICENSE AND SANDBOX
+
+5.1 FinTech License Requirements
+- Accept public deposits up to CHF 100 million
+- No lending or investment activities
+- Specific organizational requirements
+- Simplified AML procedures possible
+
+EXAMPLE:
+FinTech license application:
+- Document business model and planned activities
+- Ensure deposits will not exceed CHF 100 million
+- Confirm no lending/investment of public deposits
+- Implement minimum capital requirements (5% of deposits)
+- Establish appropriate risk management framework
+- Prepare organizational requirements documentation
+- Apply to FINMA with comprehensive application package
+
+5.2 Sandbox Provisions
+- Accept deposits up to CHF 1 million
+- Inform depositors about unregulated status
+- No interest rate differential business
+- Monitor thresholds continuously
+
+EXAMPLE:
+Sandbox implementation:
+- Design clear deposit limits monitoring system
+- Create explicit disclosures for clients about unregulated status
+- Implement controls to prevent exceeding CHF 1 million threshold
+- Ensure no interest-bearing business is conducted
+- Plan transition strategy if threshold will be exceeded
+- Maintain documentation of compliance with sandbox conditions
+
+6. DLT TRADING FACILITIES
+
+6.1 DLT Trading Facility License
+- Special license category under FinMIA
+- Allows retail participant access
+- Permits trading of DLT securities
+- Combines trading and settlement functions
+
+EXAMPLE:
+DLT trading facility implementation:
+- Prepare license application to FINMA
+- Document fulfillment of organizational requirements
+- Establish participant rules and trading protocols
+- Implement appropriate technological safeguards
+- Create specific risk management framework for DLT risks
+- Develop compliance monitoring for trading activities
+- Maintain comprehensive documentation of all system components
+
+7. TAX AND ACCOUNTING CONSIDERATIONS
+
+7.1 Tax Treatment of Crypto Assets
+- Wealth tax implications for individuals
+- Income tax treatment of trading gains
+- Capital gains considerations
+- VAT implications for crypto transactions
+
+EXAMPLE:
+Tax compliance approach:
+- Maintain detailed records of all crypto transactions
+- Document cost basis for all crypto assets
+- Track trading gains and losses for income tax purposes
+- Declare crypto holdings for wealth tax assessment
+- Apply appropriate VAT treatment for services/sales
+- Retain supporting documentation for tax positions
+- Monitor for changes in tax authority guidance

@@ -1,0 +1,140 @@
+TITLE: MROS Suspicious Activity Reporting Requirements - Compliance Implementation Guide
+
+1. INTRODUCTION TO MROS
+
+The Money Laundering Reporting Office Switzerland (MROS) is Switzerland's Financial Intelligence Unit (FIU) responsible for:
+- Receiving and analyzing suspicious activity reports (SARs)
+- Forwarding relevant cases to law enforcement authorities
+- Exchanging information with foreign FIUs
+- Publishing typologies and statistics on money laundering
+
+2. REPORTING OBLIGATIONS
+
+2.1 Legal Basis for Reporting
+- Mandatory reporting under Art. 9 AMLA
+- Right to report under Art. 305ter SCC
+- Non-disclosure requirements during reporting
+
+EXAMPLE:
+Mandatory reporting triggers include:
+- Knowledge or reasonable suspicion that assets involve criminal origins
+- Assets controlled by criminal organization
+- Assets connected to terrorist financing
+- Unusual transaction patterns that cannot be clarified
+- Client matching terrorist or sanctions list
+
+2.2 Reasonable Suspicion Standard
+- Facts-based assessment
+- Beyond mere possibility but less than certainty
+- Cannot be dispelled by clarifications
+- Document basis for suspicion
+
+EXAMPLE:
+Suspicious circumstances requiring reporting:
+- Transactions inconsistent with client profile
+- Unexplained use of complex structures
+- Transactions with high-risk jurisdictions without clear rationale
+- Adverse media about client indicating criminal activity
+- Client reluctance to provide standard information
+
+3. REPORTING PROCESS
+
+3.1 goAML Reporting System
+- Mandatory electronic submission via goAML
+- Registration requirements for financial intermediaries
+- Secure information transmission
+
+EXAMPLE:
+goAML reporting workflow:
+1. Register organization and users in goAML portal
+2. Login to secure portal for report submission
+3. Complete web forms with required information
+4. Upload supporting documentation
+5. Submit report with digital signature
+6. Maintain record of submission with reference number
+
+3.2 Information Requirements
+- Detailed client information
+- Transaction data (up to 100 transactions)
+- Reason for suspicion
+- Supporting documentation
+
+EXAMPLE:
+Required SAR information includes:
+- Client identifying information (name, DOB, nationality, address)
+- Business relationship details (account numbers, opening date)
+- Transaction details (dates, amounts, counterparties)
+- Basis for suspicion (detailed narrative)
+- Supporting documentation (account statements, contracts, correspondence)
+- Financial intermediary contact information
+
+3.3 Asset Freezing Requirements
+- When freezing is required vs. optional
+- Duration of freeze
+- Management of client communications
+
+EXAMPLE:
+Asset freezing procedure:
+1. Implement system block on reported accounts
+2. Duration: maintain freeze during 20-day MROS analysis period
+3. If forwarded to prosecution, maintain freeze for 5 additional days
+4. Lift freeze only if explicitly instructed or timeframe expires
+5. Do not inform client about reporting or freezing reason
+
+4. POST-REPORTING OBLIGATIONS
+
+4.1 Confidentiality Requirements
+- Prohibition on informing client about SAR
+- Internal information restrictions
+- Exceptions for group-wide compliance
+
+EXAMPLE:
+Confidentiality implementation:
+- Restrict SAR information to essential personnel
+- Document access controls to SAR information
+- Provide generic explanation for transaction delays
+- Use secure channels for MROS communications
+- Train staff on non-disclosure obligations
+
+4.2 Ongoing Monitoring
+- Continued relationship monitoring if maintained
+- Additional reporting requirements
+- Documentation of decision to maintain or terminate
+
+EXAMPLE:
+Post-reporting monitoring:
+- Implement enhanced transaction scrutiny
+- Document decision to maintain relationship with justification
+- Set more frequent relationship reviews
+- Consider additional risk-mitigation measures
+- Report any new suspicious activities immediately
+
+5. REPORTING TYPOLOGIES AND RED FLAGS
+
+5.1 Common Suspicious Patterns
+- Structuring transactions
+- Unusual transaction flows
+- Inconsistent business explanations
+- High-risk indicators
+
+EXAMPLE:
+Transaction patterns requiring investigation:
+- Multiple cash deposits just below reporting thresholds
+- Rapid fund transfers in and out ("in-out" transactions)
+- Transactions with shell companies lacking business purpose
+- Wire transfers to/from high-risk jurisdictions
+- Transaction volume inconsistent with stated business
+
+5.2 Industry-Specific Red Flags
+- Banking sector indicators
+- Asset management warnings
+- Payment service provider risks
+- Cryptocurrency-related concerns
+
+EXAMPLE:
+Wealth management red flags:
+- Complex ownership structures obscuring beneficial owners
+- Use of proxies or nominees without clear rationale
+- Reluctance to provide source of wealth information
+- Account activity inconsistent with client profile
+- Unexplained changes in transaction patterns

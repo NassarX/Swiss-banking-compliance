@@ -1,0 +1,148 @@
+TITLE: Self-Regulatory Organizations (SROs) - Membership and Compliance Guide
+
+1. INTRODUCTION TO SELF-REGULATION
+
+Self-Regulatory Organizations (SROs) are private bodies recognized by FINMA that:
+- Establish rules for their members regarding AMLA implementation
+- Monitor member compliance with AML obligations
+- Sanction members for violations
+- Provide guidance and training on compliance requirements
+
+Financial intermediaries in the parabanking sector must either:
+- Join an SRO, or
+- Obtain direct authorization from FINMA
+
+2. SRO MEMBERSHIP REQUIREMENTS
+
+2.1 Eligibility for SRO Membership
+- Financial intermediaries under Art. 2 Para. 3 AMLA
+- Professional practice of financial intermediation
+- Good reputation and guarantee of compliance
+
+EXAMPLE:
+Typical membership applicants include:
+- Independent asset managers
+- Fiduciaries and trustees
+- Payment service providers
+- Currency exchange services
+- Credit/loan providers
+- Commodity traders (above thresholds)
+
+2.2 Application Process
+- Submission of required documentation
+- Due diligence by SRO
+- Approval process
+- Affiliation agreement
+
+EXAMPLE:
+Standard application documentation includes:
+- Completed application forms
+- Business description and organizational chart
+- Financial statements
+- Identification of controlling persons
+- Professional qualifications
+- Criminal record extracts
+- AML concept document
+- Professional liability insurance
+
+3. ONGOING COMPLIANCE OBLIGATIONS
+
+3.1 Adherence to SRO Rules
+- Implementation of SRO-specific regulations
+- Compliance with general AMLA provisions
+- Regular reporting to SRO
+
+EXAMPLE:
+Typical SRO rule implementation:
+- Create internal directives aligned with SRO regulations
+- Document compliance with specific SRO requirements
+- Adjust procedures when SRO rules are updated
+- Attend mandatory SRO training sessions
+- Submit required periodic reports
+
+3.2 Audit Requirements
+- Regular AML audits by approved auditors
+- Frequency based on risk category
+- Remediation of identified deficiencies
+
+EXAMPLE:
+SRO audit cycle:
+1. Select authorized auditor from SRO-approved list
+2. Schedule annual/biennial audit as required
+3. Prepare documentation for auditor review
+4. Facilitate on-site inspection
+5. Receive and respond to audit findings
+6. Implement required corrective actions
+7. Report remediation to SRO
+
+3.3 Changes Requiring Notification
+- Material changes to business activities
+- Changes in personnel or organization
+- New or terminated business relationships
+
+EXAMPLE:
+Reportable changes include:
+- New financial services offered
+- Changes in directors or senior management
+- Change of business address or contact details
+- Significant client base changes
+- New branch offices
+- Disciplinary actions by other regulators
+
+4. SRO SUPERVISION AND SANCTIONS
+
+4.1 Supervision Activities
+- Regular audits and inspections
+- Ad-hoc investigations
+- Member reporting reviews
+
+EXAMPLE:
+SRO supervision methods:
+- Review of audit reports
+- On-site inspections
+- Sample testing of client files
+- Verification of staff training
+- Assessment of AML systems and controls
+- Investigation of reported violations
+
+4.2 Sanction System
+- Warning and reprimand procedures
+- Financial penalties
+- Membership termination
+- Reporting to FINMA
+
+EXAMPLE:
+Progressive sanction framework:
+1. Written warning for minor violations
+2. Reprimand with corrective action requirements
+3. Financial penalties based on violation severity
+4. Temporary restriction of activities
+5. Exclusion from SRO for serious violations
+6. Notification to FINMA of major sanctions
+
+5. BENEFITS OF SRO MEMBERSHIP
+
+5.1 Regulatory Compliance
+- Structured framework for AMLA implementation
+- Guidance on regulatory interpretation
+- Updates on regulatory changes
+
+EXAMPLE:
+Compliance support provided:
+- Regular newsletters on regulatory developments
+- Access to compliance templates and checklists
+- Advice on specific compliance questions
+- Interpretation of FINMA guidance for practical application
+
+5.2 Training and Professional Development
+- Required AML training
+- Ongoing education offerings
+- Professional networking
+
+EXAMPLE:
+Training opportunities include:
+- Mandatory basic AML training for new members
+- Annual AML refresher courses
+- Specialized modules for high-risk activities
+- Updates on emerging money laundering trends
+- Best practice sharing among members

@@ -1,0 +1,171 @@
+TITLE: Revised Federal Act on Data Protection (FADP) - Financial Sector Implementation Guide
+
+1. INTRODUCTION AND SCOPE
+
+The revised Federal Act on Data Protection (FADP) and its implementing ordinances entered into force on September 1, 2023. This represents a significant update to Switzerland's data protection framework, bringing it in line with the EU's General Data Protection Regulation (GDPR) while maintaining Swiss-specific elements.
+
+The FADP applies to:
+- All processing of personal data by private persons and federal bodies
+- Personal data of natural persons (not legal entities)
+- Data processing activities that take place in Switzerland or have effects in Switzerland
+
+For financial institutions, compliance with FADP is essential for:
+- Maintaining client trust
+- Ensuring international data transfers remain lawful
+- Avoiding regulatory sanctions
+- Preserving Switzerland's adequacy status with the EU
+
+2. KEY REQUIREMENTS FOR FINANCIAL INSTITUTIONS
+
+2.1 Transparency and Information Obligations
+- Provide clear privacy notices to clients
+- Inform clients about data collection purposes
+- Disclose cross-border transfers
+- Communicate automated decision-making
+
+EXAMPLE:
+Financial institution privacy notice implementation:
+- Create layered privacy notices (short-form and detailed)
+- Include purpose of processing client financial data
+- Specify legal basis for each processing activity
+- Detail potential data recipients including service providers
+- Explain client rights and how to exercise them
+- Document delivery of notices to clients
+
+2.2 Enhanced Individual Rights
+- Right to access personal data
+- Right to data portability
+- Right to rectification
+- Right to erasure ("right to be forgotten")
+- Right to restrict processing
+- Right to object to processing
+
+EXAMPLE:
+Client data access request process:
+1. Establish formal process for receiving requests
+2. Verify identity of requesting client
+3. Compile comprehensive inventory of client's personal data
+4. Include information about processing purposes and recipients
+5. Deliver information in electronic format if requested
+6. Document request handling and response timing
+
+2.3 Data Protection by Design and Default
+- Integrate data protection into business processes
+- Implement appropriate technical measures
+- Ensure data minimization
+- Apply privacy-enhancing technologies
+
+EXAMPLE:
+New wealth management platform implementation:
+- Conduct privacy impact assessment before development
+- Apply data minimization principles in database design
+- Implement strong access controls and audit trails
+- Enable granular consent management
+- Incorporate automatic data deletion when retention periods expire
+- Document all privacy-enhancing features
+
+2.4 Data Security Requirements
+- Implement appropriate technical and organizational measures
+- Ensure confidentiality, integrity, and availability
+- Apply risk-based approach to security
+- Address specific financial sector risks
+
+EXAMPLE:
+Data security implementation for client financial data:
+- Apply encryption for data at rest and in transit
+- Implement multi-factor authentication for all access
+- Establish role-based access controls
+- Conduct regular security assessments and penetration testing
+- Create incident response plan for data breaches
+- Maintain security documentation and testing records
+
+2.5 Data Breach Notification
+- Notify Federal Data Protection and Information Commissioner (FDPIC) of high-risk breaches
+- Report breaches without undue delay
+- Document all breaches and response measures
+- Consider notification to affected individuals
+
+EXAMPLE:
+Data breach response protocol:
+1. Establish breach identification and escalation procedures
+2. Document assessment of breach severity and risk
+3. Prepare notification templates for FDPIC and affected clients
+4. Report significant breaches to FDPIC within 72 hours
+5. Maintain breach register documenting all incidents
+6. Conduct post-breach analysis and implement preventive measures
+
+3. SPECIFIC FINANCIAL SECTOR CONSIDERATIONS
+
+3.1 Balancing FADP with Banking Secrecy
+- Ensure compliance with both regimes
+- Address potential conflicts between transparency and secrecy
+- Implement appropriate safeguards for sensitive financial data
+- Document legal basis for all processing activities
+
+EXAMPLE:
+For client financial data processing:
+- Identify overlap between banking secrecy and data protection
+- Document legal bases for all data processing activities
+- Implement special procedures for handling particularly sensitive financial data
+- Create decision trees for responding to data subject requests
+- Establish protocols for legitimate disclosure scenarios
+
+3.2 Cross-Border Data Transfers
+- Assess adequacy of receiving country
+- Implement appropriate safeguards when necessary
+- Document transfer impact assessments
+- Monitor changes in international data transfer landscape
+
+EXAMPLE:
+For transfers to service providers outside Switzerland:
+- Conduct transfer impact assessment
+- Implement Standard Contractual Clauses if needed
+- Conduct due diligence on recipient's data protection practices
+- Document necessity of transfer and safeguards implemented
+- Regularly review and update transfer documentation
+
+3.3 Profiling and Automated Decision-Making
+- Provide enhanced transparency for profiling activities
+- Obtain explicit consent for high-risk profiling
+- Ensure human oversight for automated decisions
+- Implement appeal mechanisms
+
+EXAMPLE:
+For credit scoring and risk assessment systems:
+- Document profiling activities in client-facing materials
+- Implement explicit consent mechanisms for high-risk profiling
+- Ensure meaningful human review of automated decisions
+- Provide clear explanation of factors affecting automated decisions
+- Establish process for clients to contest automated decisions
+
+4. IMPLEMENTATION AND COMPLIANCE
+
+4.1 Documentation Requirements
+- Maintain records of processing activities
+- Document data protection impact assessments
+- Keep evidence of consent
+- Record data security measures
+
+EXAMPLE:
+Documentation maintenance:
+- Create and maintain inventory of all data processing activities
+- Document legal basis for each processing activity
+- Maintain log of all data protection impact assessments
+- Keep records of consent collection and management
+- Document all technical and organizational security measures
+- Update documentation when processes change
+
+4.2 Data Protection Officer
+- Designate qualified person responsible for data protection
+- Ensure independence and adequate resources
+- Involve DPO in all data protection matters
+- Document DPO activities and consultations
+
+EXAMPLE:
+DPO responsibilities in financial institution:
+- Advise on compliance with FADP requirements
+- Monitor internal compliance activities
+- Conduct regular training for employees
+- Serve as contact point for supervisory authority
+- Oversee data protection impact assessments
+- Report regularly to senior management

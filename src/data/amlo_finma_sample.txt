@@ -1,0 +1,196 @@
+TITLE: FINMA Anti-Money Laundering Ordinance (AMLO-FINMA) - Implementation Guide
+
+1. INTRODUCTION AND SCOPE
+
+The FINMA Anti-Money Laundering Ordinance (AMLO-FINMA) sets out detailed requirements for how financial intermediaries must implement their obligations under the Anti-Money Laundering Act (AMLA). The ordinance was last revised in October 2022, with changes effective as of January 1, 2023.
+
+The AMLO-FINMA applies to:
+- Financial intermediaries directly supervised by FINMA
+- Banks and securities firms
+- Fund management companies
+- Investment managers
+- Payment service providers
+- FinTech license holders
+- Virtual asset service providers
+
+2. RISK-BASED APPROACH REQUIREMENTS
+
+2.1 Risk Assessment Framework
+- Develop criteria for identifying heightened risks
+- Categorize business relationships based on risk
+- Apply enhanced measures for high-risk relationships
+- Regularly review and update risk assessments
+
+EXAMPLE:
+Risk assessment implementation:
+- Create risk matrix with weighted risk factors (client type, jurisdiction, products, transaction patterns)
+- Assign risk scores to all business relationships
+- Document rationale for risk classifications
+- Review high-risk relationships at least annually
+- Update risk assessments when circumstances change
+- Maintain documentation of all risk assessments
+
+2.2 Criteria for Higher-Risk Relationships
+- Client domicile in high-risk country
+- Complex corporate structures
+- Politically exposed persons (PEPs)
+- Unusual transaction patterns
+- High-value cash transactions
+
+EXAMPLE:
+High-risk classification triggers:
+- Client domiciled in country on FATF grey/black list
+- Use of complex structures without clear economic purpose
+- Transactions with high-risk jurisdictions
+- Cash transactions exceeding CHF 100,000
+- Connection to PEP (domestic, foreign, or international organization)
+- Activities in high-risk industries (e.g., arms trading, cryptocurrency)
+
+3. DUE DILIGENCE REQUIREMENTS
+
+3.1 Standard Due Diligence
+- Verify identity of contracting party
+- Identify beneficial owner
+- Establish purpose and nature of relationship
+- Document source of funds
+- Maintain ongoing monitoring
+
+EXAMPLE:
+Standard due diligence process:
+- Collect and verify identification documents for natural persons/entities
+- Obtain beneficial ownership declaration (Form A, K, S, or T as appropriate)
+- Document business background and purpose of relationship
+- Record source of assets being deposited
+- Implement transaction monitoring appropriate to risk level
+- Maintain all documentation for 10 years after relationship termination
+
+3.2 Enhanced Due Diligence (EDD)
+- Obtain additional information and documentation
+- Senior management approval for high-risk relationships
+- Increased monitoring of transactions
+- Regular review and updates
+
+EXAMPLE:
+Enhanced due diligence measures:
+- Obtain detailed information on source of wealth
+- Secure senior management approval for relationship
+- Implement more intensive transaction monitoring
+- Conduct enhanced background checks
+- Perform more frequent relationship reviews
+- Document all EDD measures applied
+- Verify information through multiple sources
+
+3.3 Beneficial Ownership Verification
+- Identify natural persons who ultimately control/own assets
+- Document verification steps and decisions
+- Apply risk-based approach to verification intensity
+- Regularly update beneficial ownership information
+
+EXAMPLE:
+Beneficial ownership verification process:
+- Collect appropriate declaration form (A, K, S, T)
+- Verify information through reliable independent sources
+- Document ownership/control structure with diagrams for complex structures
+- Plausibility check of declared beneficial owners
+- Apply enhanced verification for high-risk relationships
+- Update information when changes occur or periodically
+
+4. TRANSACTION MONITORING REQUIREMENTS
+
+4.1 Monitoring Systems and Processes
+- Implement automated and/or manual monitoring
+- Define scenarios and thresholds based on risk
+- Establish alert investigation process
+- Document monitoring activities
+
+EXAMPLE:
+Transaction monitoring implementation:
+- Configure monitoring system with appropriate scenarios (e.g., unusual volume, structuring patterns)
+- Set risk-based thresholds for alerts
+- Establish clear investigation procedures for alerts
+- Document review of alerts and decisions
+- Regularly test and refine monitoring parameters
+- Maintain audit trail of all monitoring activities
+
+4.2 Unusual Transaction Handling
+- Define criteria for unusual transactions
+- Implement investigation procedures
+- Document clarifications obtained
+- Escalate suspicious transactions
+
+EXAMPLE:
+Unusual transaction review process:
+1. System flags transaction meeting unusual criteria
+2. First-level review by monitoring team
+3. Obtain clarification from client if needed
+4. Document business rationale and supporting evidence
+5. Escalate to compliance officer if suspicion remains
+6. Decide on SAR filing or case closure with documentation
+7. Implement additional monitoring if appropriate
+
+5. ORGANIZATIONAL REQUIREMENTS
+
+5.1 AML Unit Requirements
+- Establish independent AML function
+- Provide adequate resources and authority
+- Define clear responsibilities
+- Ensure proper reporting lines
+
+EXAMPLE:
+AML organization structure:
+- Establish dedicated AML unit reporting to compliance head
+- Staff unit with qualified AML specialists
+- Document responsibilities in function descriptions
+- Ensure independence from business functions
+- Provide direct escalation line to board/senior management
+- Allocate sufficient budget and resources
+
+5.2 Internal Directives and Training
+- Develop comprehensive AML policies and procedures
+- Ensure regular staff training
+- Document training activities
+- Adapt training to specific roles
+
+EXAMPLE:
+AML policy and training framework:
+- Create detailed AML manual covering all requirements
+- Develop role-specific procedures for front office, compliance, etc.
+- Conduct initial training for all new employees
+- Hold annual refresher training for all staff
+- Provide specialized training for compliance personnel
+- Test knowledge and document training completion
+- Update materials when regulations change
+
+6. REPORTING AND DOCUMENTATION
+
+6.1 Suspicious Activity Reporting
+- Implement procedures for identifying suspicious activity
+- Establish internal escalation process
+- Prepare for MROS reporting
+- Document reporting decisions
+
+EXAMPLE:
+SAR process implementation:
+- Create suspicious activity identification guidelines
+- Establish standardized investigation procedures
+- Document all reviews and decisions
+- Prepare reporting templates for MROS submission
+- Implement asset freezing procedures when required
+- Train staff on non-disclosure requirements
+- Maintain records of all reports filed
+
+6.2 Record-Keeping Requirements
+- Maintain all due diligence documentation
+- Preserve transaction records
+- Ensure accessibility and readability
+- Adhere to 10-year retention period
+
+EXAMPLE:
+Record-keeping implementation:
+- Establish secure document management system
+- Define retention schedules for all document types
+- Implement access controls and audit trails
+- Ensure records can be retrieved promptly when needed
+- Maintain records in a format that remains accessible
+- Include all customer correspondence and transaction details
+- Document compliance decisions and rationale

@@ -1,0 +1,162 @@
+TITLE: Financial Market Infrastructure Act (FinMIA) - Compliance Implementation Guide
+
+1. INTRODUCTION AND SCOPE
+
+The Financial Market Infrastructure Act (FinMIA) regulates the organization and operation of financial market infrastructures in Switzerland. It applies to:
+- Trading venues (stock exchanges and multilateral trading facilities)
+- Central counterparties (CCPs)
+- Central securities depositories (CSDs)
+- Trade repositories
+- Payment systems
+- DLT trading facilities
+- Participants in these infrastructures
+
+For financial intermediaries, FinMIA establishes obligations for:
+- Trading in derivatives
+- Disclosure of shareholdings
+- Market conduct rules
+- Insider trading and market manipulation prohibitions
+
+2. DERIVATIVES TRADING OBLIGATIONS
+
+2.1 Clearing Obligation
+- Identify transactions subject to clearing obligation
+- Clear eligible OTC derivatives through authorized CCPs
+- Document compliance with clearing requirements
+- Apply exemptions where permitted
+
+EXAMPLE:
+Clearing obligation implementation:
+- Categorize derivatives portfolio to identify clearing-eligible transactions
+- Establish connectivity with authorized CCPs
+- Document basis for any exemption applied (e.g., intragroup, hedging)
+- Implement procedures to ensure new transactions are assessed for clearing requirements
+- Maintain records of all clearing determinations and executions
+
+2.2 Reporting Obligation
+- Report derivative transactions to authorized trade repository
+- Ensure timely and accurate reporting
+- Include all required transaction details
+- Maintain evidence of reporting
+
+EXAMPLE:
+Derivatives reporting process:
+- Select authorized trade repository
+- Implement automated reporting solution
+- Include all required data fields in reports
+- Submit reports within required timeframe (T+1)
+- Perform regular reconciliation to verify reporting accuracy
+- Maintain audit trail of all reports submitted
+- Document any reporting issues and remediation
+
+2.3 Risk Mitigation Techniques
+- Implement timely confirmation of transactions
+- Conduct portfolio reconciliation and compression
+- Establish dispute resolution procedures
+- Perform daily valuation of outstanding transactions
+
+EXAMPLE:
+Risk mitigation implementation:
+- Create process for timely confirmation of non-cleared OTC derivatives
+- Implement regular portfolio reconciliation (frequency based on portfolio size)
+- Establish documented dispute resolution procedures
+- Ensure daily mark-to-market valuation of outstanding positions
+- Document compliance with all risk mitigation requirements
+
+3. MARKET CONDUCT RULES
+
+3.1 Prohibition of Market Manipulation
+- Identify potential manipulative behaviors
+- Implement surveillance mechanisms
+- Train staff on prohibited practices
+- Establish reporting procedures
+
+EXAMPLE:
+Market manipulation prevention:
+- Create detailed policies defining prohibited manipulative practices
+- Implement surveillance systems to detect potential manipulation
+- Train staff on recognizing and avoiding manipulative behaviors
+- Establish escalation procedures for suspicious activities
+- Document all surveillance activities and investigations
+- Maintain communication monitoring where appropriate
+
+3.2 Prohibition of Insider Trading
+- Identify inside information
+- Implement handling procedures for inside information
+- Establish insider lists
+- Monitor for potential insider trading
+
+EXAMPLE:
+Insider trading prevention:
+- Create policy on handling inside information
+- Establish information barriers between departments
+- Maintain lists of persons with access to inside information
+- Implement trading restrictions during sensitive periods
+- Monitor employee and proprietary trading
+- Train staff on insider trading prohibitions
+- Document all control measures implemented
+
+3.3 Disclosure of Shareholdings
+- Monitor shareholding positions
+- Identify notification thresholds
+- Submit notifications when required
+- Maintain records of all notifications
+
+EXAMPLE:
+Shareholding disclosure process:
+- Implement system to track all equity holdings
+- Configure alerts for approaching disclosure thresholds (3%, 5%, 10%, etc.)
+- Prepare standardized notification templates
+- Submit notifications within required timeframe (4 trading days)
+- Maintain records of all notifications and supporting calculations
+- Monitor for group notification requirements
+
+4. DLT TRADING FACILITY REQUIREMENTS
+
+4.1 Special Provisions for DLT Trading Facilities
+- Understand specific requirements for DLT infrastructures
+- Implement appropriate governance and risk controls
+- Ensure compliance with participant requirements
+- Address specific technological risks
+
+EXAMPLE:
+DLT compliance implementation:
+- Establish governance framework appropriate for DLT environment
+- Implement specific security measures for distributed systems
+- Document compliance with DLT-specific provisions
+- Ensure participant onboarding meets regulatory requirements
+- Address specific operational risks of distributed ledger technology
+- Maintain appropriate technical documentation
+
+5. CROSS-BORDER CONSIDERATIONS
+
+5.1 Equivalence and Recognition
+- Understand foreign infrastructure access requirements
+- Document equivalence determinations
+- Comply with both Swiss and foreign requirements
+- Monitor for regulatory changes
+
+EXAMPLE:
+Cross-border compliance approach:
+- Identify applicable foreign regimes for cross-border activities
+- Document analysis of equivalence determinations
+- Implement compliance with both Swiss and foreign requirements
+- Establish monitoring for regulatory changes in relevant jurisdictions
+- Maintain documentation of cross-border activities and compliance
+
+6. DOCUMENTATION AND REPORTING
+
+6.1 Record-Keeping Requirements
+- Maintain records of all transactions and orders
+- Document compliance with all FinMIA obligations
+- Ensure records can be provided to regulators upon request
+- Preserve records for minimum required periods
+
+EXAMPLE:
+Record-keeping implementation:
+- Establish comprehensive record-keeping system
+- Maintain transaction records for at least 10 years
+- Document all compliance activities and decisions
+- Ensure records are readily accessible when needed
+- Implement appropriate access controls and audit trails
+- Include all relevant communications and instructions

@@ -1,0 +1,149 @@
+TITLE: CDB 20 - Swiss Banks' Code of Conduct on Due Diligence - Implementation Guide
+
+1. OVERVIEW AND PURPOSE
+
+The Agreement on the Swiss banks' code of conduct with regard to the exercise of due diligence (CDB 20) is the recognized self-regulatory standard issued by the Swiss Bankers Association (SBA) and approved by FINMA. It details the due diligence obligations for all Swiss banks and securities dealers regarding:
+- Verification of contracting party identity
+- Identification of beneficial owners
+- Prohibition of active assistance in capital flight and tax evasion
+
+2. VERIFICATION OF CONTRACTING PARTY
+
+2.1 Natural Persons
+- Verify identity using valid official identification
+- Document full name, date of birth, nationality, and address
+- Ensure in-person or approved digital verification
+
+EXAMPLE:
+Required documentation for individuals:
+- Copy of passport, identity card, or residence permit
+- Documentation of verification method (in-person or digital)
+- Address verification for correspondence address
+- Signature verification
+
+2.2 Legal Entities
+- Verify through official commercial register extracts
+- Identify and verify authorized signatories
+- Document nature and purpose of business
+
+EXAMPLE:
+Required documentation for companies:
+- Commercial register extract (less than 12 months old)
+- Articles of association
+- List of authorized signatories with verification
+- Documentation of business activities and location
+
+2.3 Special Cases
+- Simplified verification for publicly listed companies
+- Special rules for public authorities
+- Specific requirements for associations and foundations
+
+EXAMPLE:
+For a publicly listed company:
+- Verify listing on recognized exchange
+- Document name of exchange and listing information
+- Verify authority of individuals establishing relationship
+
+3. IDENTIFICATION OF BENEFICIAL OWNERS
+
+3.1 Form A - Declaration of Beneficial Ownership
+- Required when contracting party is not the beneficial owner
+- Mandatory for domiciliary companies
+- Must identify natural person(s) who own/control assets
+
+EXAMPLE:
+Form A requires:
+- Full name of beneficial owner(s)
+- Date of birth
+- Nationality
+- Full address of domicile
+- Country of residence
+- Dated signature of contracting party
+
+3.2 Form K - Declaration of Controlling Persons
+- Required for operating legal entities
+- Identifies individuals who control the entity
+- Follows three-layer identification approach
+
+EXAMPLE:
+Form K must identify controllers based on:
+1. Capital/voting rights ownership of 25% or more, or if none
+2. Control through other means, or if none
+3. Senior managing officials (e.g., CEO)
+
+3.3 Form T - Declaration for Trusts
+- Identifies all relevant parties to the trust
+- Details trust structure and control
+
+EXAMPLE:
+Form T requires identification of:
+- Settlor(s) (effective and named)
+- Trustee(s)
+- Protector(s) if any
+- Beneficiaries or class of beneficiaries
+- Any other controlling persons
+
+3.4 Form S - Declaration for Foundations
+- Identifies all parties to the foundation
+- Details foundation structure and control
+
+EXAMPLE:
+Form S requires identification of:
+- Founder(s) (effective and named)
+- Foundation board members
+- Beneficiaries or class of beneficiaries
+- Any other controlling persons
+
+4. TRANSACTION RESTRICTIONS
+
+4.1 Cash Transactions
+- Identify contracting party for cash transactions ≥ CHF 15,000
+- Apply verification requirements even for one-off transactions
+
+EXAMPLE:
+For a CHF 20,000 cash deposit by a non-account holder:
+- Verify identity with official ID
+- Document purpose of transaction
+- Consider filing SAR if suspicious elements exist
+
+5. DOCUMENTATION REQUIREMENTS
+
+5.1 Account Opening Process
+- Complete all required verification before activating account
+- Block accounts missing documentation after 30 days
+- Terminate relationships if documentation cannot be obtained
+
+EXAMPLE:
+Account opening workflow:
+1. Collect all required CDB forms and documents
+2. Verify completeness and accuracy of information
+3. Activate account only when fully documented
+4. If documentation incomplete after 30 days:
+   a. Block all transactions
+   b. Obtain missing documentation or terminate relationship
+
+5.2 Ongoing Monitoring
+- Update CDB documentation when changes occur
+- Conduct periodic reviews based on risk
+- Document review process and findings
+
+EXAMPLE:
+Triggering events requiring documentation updates:
+- Change in beneficial ownership
+- Change in controlling persons
+- Corporate restructuring
+- Change of signatory authority
+- Indications that previous information is incorrect
+
+6. SUPERVISION AND SANCTIONS
+
+6.1 Compliance Verification
+- External auditors verify CDB compliance annually
+- Internal controls check documentation quality
+- SBA supervisory board investigates violations
+
+EXAMPLE:
+Compliance verification process:
+- Monthly internal quality checks of new relationships
+- Annual external audit of CDB compliance
+- Documentation of findings and remediation

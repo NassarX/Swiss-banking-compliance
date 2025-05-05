@@ -1,0 +1,1 @@
+web: python src/minimal_app.py

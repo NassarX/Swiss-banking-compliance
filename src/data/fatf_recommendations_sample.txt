@@ -1,0 +1,258 @@
+TITLE: FATF Recommendations - Swiss Implementation Guide for Compliance Officers
+
+1. INTRODUCTION TO FATF
+
+The Financial Action Task Force (FATF) is the global standard-setting body for anti-money laundering (AML), counter-terrorist financing (CFT), and counter-proliferation financing measures. Its 40 Recommendations provide a comprehensive framework that countries should implement to combat financial crime.
+
+Switzerland, as a FATF member since 1990, is committed to implementing these standards and regularly undergoes mutual evaluations to assess compliance.
+
+2. SWITZERLAND'S FATF COMPLIANCE STATUS
+
+2.1 Current Compliance Ratings
+As of October 2023, Switzerland's compliance with FATF Recommendations stands at:
+- 8 Recommendations rated "Compliant"
+- 29 Recommendations rated "Largely Compliant"
+- 3 Recommendations rated "Partially Compliant"
+
+EXAMPLE:
+Compliance dashboard for 2025:
+- Switzerland shows strong compliance across most areas
+- Key areas for improvement include designated non-financial businesses and professions (DNFBPs) regulations
+- Recent improvements in Recommendations 10 and 40 have resulted in upgraded ratings from "Partially Compliant" to "Largely Compliant"
+
+2.2 Areas of Recent Improvement
+- Customer Due Diligence (Recommendation 10)
+- International Cooperation (Recommendation 40)
+
+EXAMPLE:
+For Recommendation 10 (Customer Due Diligence), Switzerland made improvements by:
+- Implementing stronger verification requirements for beneficial owners
+- Enhancing ongoing due diligence processes
+- Adding specific provisions for high-risk scenarios
+- Strengthening requirements for obtaining source of funds information
+- Implementing clearer rules for transaction monitoring
+
+3. KEY FATF RECOMMENDATIONS AND SWISS IMPLEMENTATION
+
+3.1 Risk Assessment (Recommendation 1)
+- National Risk Assessment requirement
+- Risk-based approach to AML/CFT
+- Swiss implementation through regular national assessments
+
+EXAMPLE:
+Swiss National Risk Assessment implementation:
+- Identify and assess money laundering and terrorist financing risks
+- Allocate resources based on risk priorities
+- Implement risk-based supervision for financial institutions
+- Require financial institutions to conduct their own risk assessments
+- Document risk assessment methodology and findings
+
+3.2 Customer Due Diligence (Recommendation 10)
+- Verification of customer identity
+- Beneficial ownership identification
+- Ongoing monitoring
+- Swiss implementation through AMLA and AMLO-FINMA
+
+EXAMPLE:
+CDD requirements in practice:
+- Verify client identity using reliable, independent source documents
+- Identify beneficial owners for all legal entities
+- Document source of funds for higher-risk relationships
+- Conduct ongoing monitoring aligned with client risk
+- Apply enhanced measures for high-risk clients
+- Regular review and updating of CDD information
+
+3.3 Politically Exposed Persons (Recommendation 12)
+- Enhanced due diligence for PEPs
+- Senior management approval
+- Source of wealth verification
+- Swiss implementation through specific PEP provisions
+
+EXAMPLE:
+PEP handling procedures:
+- Implement reliable PEP screening system
+- Obtain senior management approval for PEP relationships
+- Verify source of wealth and source of funds
+- Conduct enhanced transaction monitoring
+- Perform more frequent relationship reviews
+- Document all enhanced measures applied to PEP relationships
+
+3.4 Correspondent Banking (Recommendation 13)
+- Enhanced due diligence for correspondent relationships
+- Assessment of respondent institutions
+- Swiss implementation in banking regulations
+
+EXAMPLE:
+Correspondent banking controls:
+- Gather sufficient information about respondent institution
+- Assess respondent's AML/CFT controls
+- Obtain senior management approval
+- Document respective AML/CFT responsibilities
+- Prohibit relationships with shell banks
+- Periodic review of correspondent relationships
+
+3.5 Suspicious Transaction Reporting (Recommendation 20)
+- Obligation to report suspicious transactions
+- No tipping-off
+- Swiss implementation through MROS reporting
+
+EXAMPLE:
+STR process implementation:
+- Establish clear internal procedures for identifying suspicious activity
+- Report promptly to MROS when suspicions exist
+- Maintain confidentiality of reports
+- Document decision-making process
+- Provide comprehensive information in reports
+- Continue monitoring after reporting
+
+3.6 Transparency of Legal Persons (Recommendation 24)
+- Beneficial ownership information
+- Company registries
+- Swiss implementation through corporate law and AML regulations
+
+EXAMPLE:
+Legal person transparency measures:
+- Obtain and verify beneficial ownership information
+- Document control structure for complex entities
+- Maintain accurate and current beneficial ownership records
+- Ensure information is accessible to authorities
+- Implement ongoing monitoring for changes in ownership
+- Apply enhanced due diligence for complex structures
+
+3.7 Regulation and Supervision (Recommendation 26-28)
+- Risk-based supervision
+- Powers of supervisors
+- Swiss implementation through FINMA and SROs
+
+EXAMPLE:
+Supervisory approach in Switzerland:
+- FINMA implements risk-based supervision of financial institutions
+- SROs oversee parabanking sector under FINMA supervision
+- Regular onsite and offsite inspections based on risk
+- Enforcement actions for non-compliance
+- Coordination between different supervisory bodies
+- Regular assessment of supervisory effectiveness
+
+4. CURRENT CHALLENGES AND DEVELOPMENTS
+
+4.1 Areas for Further Improvement
+- Regulation of DNFBPs (Recommendations 22 and 23)
+- Beneficial ownership transparency (Recommendation 24)
+- New technologies and virtual assets
+
+EXAMPLE:
+DNFBP compliance enhancement strategies:
+- Strengthen due diligence requirements for lawyers and notaries
+- Improve monitoring and enforcement for real estate sector
+- Enhance supervision of precious metals dealers
+- Implement more comprehensive DNFBP supervision
+- Document DNFBP-specific risk assessments
+
+4.2 Upcoming Regulatory Changes
+- Beneficial owner register implementation
+- Enhanced due diligence for legal advice activities
+- Amendments to address FATF deficiencies
+
+EXAMPLE:
+Preparing for the beneficial owner register:
+- Review current beneficial ownership identification procedures
+- Prepare systems for register integration
+- Document verification processes for register information
+- Implement procedures for handling discrepancies
+- Train staff on new requirements and verification methods
+
+5. IMPLEMENTATION GUIDANCE FOR FINANCIAL INSTITUTIONS
+
+5.1 Risk-Based Approach Implementation
+- Develop tailored risk assessment methodology
+- Document risk rating criteria
+- Apply proportionate measures based on risk
+- Regular review and updating
+
+EXAMPLE:
+Risk assessment framework components:
+- Develop comprehensive risk assessment methodology
+- Identify key risk factors (client, country, product, channel)
+- Assign risk ratings to all clients and business lines
+- Document rationale for risk designations
+- Implement controls proportionate to identified risks
+- Regularly review and update risk assessments
+
+5.2 Due Diligence Implementation
+- Identification and verification procedures
+- Beneficial ownership determination
+- Ongoing monitoring requirements
+- Enhanced measures for higher risks
+
+EXAMPLE:
+Enhanced due diligence implementation:
+- Create EDD procedures for high-risk clients and transactions
+- Obtain additional documentation for source of funds/wealth
+- Implement more intensive transaction monitoring
+- Conduct more frequent relationship reviews
+- Require senior management approval
+- Document all enhanced measures applied
+
+5.3 Transaction Monitoring Systems
+- Automated monitoring implementation
+- Alert handling procedures
+- Documentation requirements
+- System tuning and optimization
+
+EXAMPLE:
+Transaction monitoring system implementation:
+- Configure monitoring parameters based on client risk profiles
+- Establish clear alert investigation procedures
+- Document review process and decisions
+- Implement quality control of alert handling
+- Regularly test and refine monitoring scenarios
+- Maintain audit trail of all monitoring activities
+
+6. FATF MUTUAL EVALUATION PREPARATION
+
+6.1 Understanding the Evaluation Process
+- Technical compliance assessment
+- Effectiveness assessment
+- Rating methodology
+- Next Swiss evaluation expected 2027/2028
+
+EXAMPLE:
+Preparing for mutual evaluation:
+- Conduct self-assessment against FATF methodology
+- Document implementation of all FATF Recommendations
+- Collect statistics on AML/CFT activities
+- Prepare case studies demonstrating effectiveness
+- Ensure staff awareness of evaluation process
+- Identify and address any compliance gaps
+
+6.2 Evidence of Effectiveness
+- Documentation of risk understanding
+- Statistics on investigations and prosecutions
+- Supervisory actions
+- International cooperation metrics
+
+EXAMPLE:
+Effectiveness documentation approach:
+- Maintain comprehensive statistics on suspicious activity reports
+- Document risk assessment methodology and outcomes
+- Track investigation and prosecution outcomes
+- Maintain records of supervisory actions and remediation
+- Document international cooperation activities
+- Prepare case studies demonstrating effective implementation
+
+7. RESOURCES AND REFERENCE MATERIALS
+
+7.1 Key FATF Documents
+- The FATF Recommendations (February 2025 update)
+- FATF Methodology for Assessing Compliance
+- Switzerland Mutual Evaluation Report and Follow-up Reports
+- FATF Guidance Papers and Best Practices
+
+EXAMPLE:
+Essential FATF resource library:
+- Maintain current copies of all relevant FATF documents
+- Track updates to FATF Recommendations and methodology
+- Review applicable FATF guidance papers for your sector
+- Monitor Swiss-specific follow-up reports and action plans
+- Subscribe to FATF and FINMA updates
+- Document how FATF guidance is implemented in your institution

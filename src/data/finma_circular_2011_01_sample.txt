@@ -1,0 +1,128 @@
+TITLE: FINMA Circular 2011/01 - Financial Intermediation Under AMLA - Assessment Guide
+
+1. PURPOSE AND SCOPE
+
+FINMA Circular 2011/01 "Financial Intermediation under AMLA" provides guidance on:
+- Which activities qualify as financial intermediation under AMLA
+- When activities are conducted on a professional basis
+- Geographic scope of AMLA application
+- Exemptions and exclusions from AMLA
+
+2. DETERMINING FINANCIAL INTERMEDIATION STATUS
+
+2.1 General Definition of Financial Intermediation
+- Accepting or holding assets belonging to third parties
+- Assisting in the investment or transfer of such assets
+- Activities specifically listed in Art. 2 Para. 3 AMLA
+
+EXAMPLE:
+Financial intermediation activities include:
+- Asset management
+- Payment services
+- Money/currency exchange
+- Credit and lending
+- Securities trading
+- Investment fund distribution
+- Fiduciary services
+
+2.2 Professional vs. Non-Professional Activities
+- Professional activity triggers AMLA compliance requirements
+- Based on volume, revenue, or number of relationships
+
+EXAMPLE:
+Activities are considered professional when any of these thresholds are met:
+- Gross revenue exceeds CHF 50,000 per year
+- Transactions with more than 20 clients per year
+- Power of disposal over third-party assets exceeding CHF 5 million
+- Transaction volume exceeding CHF 2 million per year
+
+3. SPECIFIC ACTIVITY ASSESSMENTS
+
+3.1 Asset Transfer Services
+- Services involving power of disposal over assets
+- Distinction between direct transfers and instruction transmission
+
+EXAMPLE:
+Money transfer service assessment:
+- Money transmitter accepting funds for transfer: Subject to AMLA
+- Payment instruction processing with no power of disposal: Not subject to AMLA
+- Money transfer as accessory to main business: May be exempt if below thresholds
+
+3.2 Currency Exchange Activities
+- Professional currency exchange is subject to AMLA
+- Accessory exchange may be exempt under certain conditions
+
+EXAMPLE:
+Currency exchange assessment:
+- Dedicated exchange bureau: Subject to AMLA
+- Hotel offering currency exchange to guests:
+  * Exempt if exchange volume below CHF 5,000 per client
+  * Exempt if exchange revenue less than 10% of total revenue
+  * Subject to AMLA if thresholds exceeded
+
+3.3 Trading Activities
+- Trading in securities/financial instruments subject to AMLA
+- Trading on behalf of third parties vs. proprietary trading
+
+EXAMPLE:
+Trading activity assessment:
+- Securities broker executing client orders: Subject to AMLA
+- Asset manager with discretionary authority: Subject to AMLA
+- Proprietary trader trading own assets: Not subject to AMLA
+
+3.4 Lending Activities
+- Credit/loans with repayment obligations subject to AMLA
+- Exclusions for certain commercial transactions
+
+EXAMPLE:
+Lending activity assessment:
+- Consumer loan provider: Subject to AMLA
+- Merchant offering purchase financing:
+  * Exempt if ancillary to main business
+  * Subject to AMLA if standalone lending service
+
+3.5 Investment Activities
+- Collective investment scheme management subject to AMLA
+- Investment advisory without asset management may be exempt
+
+EXAMPLE:
+Investment activity assessment:
+- Fund distributor selling investment products: Subject to AMLA
+- Investment advisor without power of disposal: Generally not subject to AMLA
+- Asset manager with discretionary authority: Subject to AMLA
+
+4. GEOGRAPHICAL SCOPE
+
+4.1 Activity in or from Switzerland
+- Swiss-domiciled entities subject to AMLA
+- Foreign entities with Swiss operations may be subject
+
+EXAMPLE:
+Geographical assessment scenarios:
+- Swiss-based asset manager: Subject to AMLA
+- Foreign entity with de facto branch in Switzerland: Subject to AMLA
+- Foreign entity with Swiss staff assisting in financial intermediation: Subject to AMLA
+- Purely foreign operation with no Swiss nexus: Not subject to AMLA
+
+5. EXEMPTIONS AND EXCLUSIONS
+
+5.1 Accessory Service Exemptions
+- Certain activities exempt when ancillary to main business
+- Subject to specific thresholds and limitations
+
+EXAMPLE:
+Accessory service assessment:
+- Retailer offering currency exchange:
+  * Exempt if exchange volume below CHF 5,000 per transaction
+  * Exempt if less than 10% of annual revenue
+  * Must be clearly subordinate to main business
+
+5.2 Specific Exclusions
+- Activities explicitly excluded from AMLA scope
+- Based on nature of activity or relationship
+
+EXAMPLE:
+Exclusion assessment:
+- Intra-group treasury services: Generally excluded
+- Transport of physical assets without disposal power: Excluded
+- Pure advisory services without asset transfers: Generally excluded

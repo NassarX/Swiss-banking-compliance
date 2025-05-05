@@ -1,0 +1,125 @@
+TITLE: Swiss Anti-Money Laundering Act (AMLA) - Compliance Implementation Guide
+
+1. SCOPE AND APPLICATION
+
+The Anti-Money Laundering Act (AMLA) applies to financial intermediaries and sets forth obligations for preventing money laundering, terrorist financing, and ensuring proper due diligence in financial transactions.
+
+Financial intermediaries subject to AMLA include:
+- Banks and securities dealers
+- Fund management companies
+- Asset managers
+- Insurance institutions
+- Payment service providers
+- Loan, leasing, and factoring providers
+- Currency exchange services
+- Trustees and fiduciaries
+- Commodity and precious metal traders (when exceeding thresholds)
+
+2. KEY COMPLIANCE OBLIGATIONS
+
+2.1 Customer Identification (KYC)
+- Verify identity of natural persons using valid government-issued ID
+- Verify legal entities through commercial register extracts
+- Document verification process with date, signature, and copies of identification documents
+- For remote onboarding, follow FINMA Circular 2016/7 requirements
+
+EXAMPLE:
+When onboarding a corporate client, obtain:
+- Commercial register extract (less than 12 months old)
+- Articles of association or equivalent
+- Verification of authorized signatories
+- Documentation of business activities and purpose
+
+2.2 Beneficial Ownership Verification
+- Identify and verify natural persons who ultimately own or control the relationship
+- Document the verification process with appropriate forms
+- Repeat verification when circumstances change
+
+EXAMPLE:
+For a holding company structure:
+- Document full ownership chain up to natural persons
+- Identify all individuals owning/controlling 25% or more
+- If no individual meets 25% threshold, identify senior managing officials
+- Maintain a visual diagram of complex structures
+
+2.3 Risk-Based Approach
+- Categorize clients based on risk (low, medium, high)
+- Apply enhanced measures for high-risk relationships
+- Document risk assessment methodology and decisions
+
+EXAMPLE:
+Risk assessment factors include:
+- Client jurisdiction (FATF high-risk vs. low-risk countries)
+- Business activity (cash-intensive, high-value goods)
+- Complexity of structures (multiple layers, offshore entities)
+- Transaction patterns (volume, frequency, cross-border)
+- PEP status or connections
+
+2.4 Transaction Monitoring
+- Implement system to detect unusual transactions
+- Document review of alerts and investigations
+- Maintain audit trail of monitoring activities
+
+EXAMPLE:
+Transactions requiring investigation include:
+- Unexplained wire transfers to/from high-risk jurisdictions
+- Cash transactions near reporting thresholds
+- Roundtrip transactions (funds going out and returning)
+- Activity inconsistent with client profile or business purpose
+- Transactions with no apparent economic rationale
+
+2.5 Suspicious Activity Reporting
+- Report founded suspicions to MROS via goAML system
+- Maintain transaction freeze during investigation period
+- Observe non-disclosure requirements
+
+EXAMPLE:
+Reporting process steps:
+1. Employee detects unusual activity and escalates
+2. Compliance officer investigates and documents findings
+3. If suspicion cannot be dispelled, prepare SAR
+4. Submit via goAML within legal timeframe
+5. Maintain confidentiality about the report
+6. Implement asset freeze if required
+
+3. DOCUMENTATION REQUIREMENTS
+
+3.1 Record Keeping
+- Maintain all customer due diligence records for 10 years
+- Ensure records are readily accessible for audits
+- Document compliance decisions and rationale
+
+EXAMPLE:
+Required documentation includes:
+- Client identification documents
+- Beneficial ownership forms
+- Transaction records
+- Compliance approvals and decisions
+- Risk assessments and reviews
+- Suspicious activity investigations
+
+4. ORGANIZATION AND CONTROLS
+
+4.1 Internal Controls
+- Establish independent compliance function
+- Implement multi-level control system
+- Conduct regular compliance reviews
+
+EXAMPLE:
+Three-lines-of-defense model:
+1. First line: Front office verifies client identity and flags unusual activities
+2. Second line: Compliance reviews documentation and investigates alerts
+3. Third line: Internal audit conducts independent testing
+
+4.2 Training
+- Provide regular AML training to all relevant staff
+- Document training attendance and effectiveness
+- Update training as regulations evolve
+
+EXAMPLE:
+Training program components:
+- Initial onboarding training for new employees
+- Annual refresher courses
+- Role-specific modules (e.g., client-facing, compliance)
+- Case study exercises
+- Testing of knowledge and procedures

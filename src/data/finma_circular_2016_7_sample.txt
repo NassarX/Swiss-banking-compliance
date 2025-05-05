@@ -1,0 +1,153 @@
+TITLE: FINMA Circular 2016/7 - Video and Online Identification - Digital Onboarding Guide
+
+1. PURPOSE AND SCOPE
+
+FINMA Circular 2016/7 establishes requirements for financial intermediaries to perform digital customer identification through:
+- Video identification (real-time audiovisual communication)
+- Online identification (non-video digital verification methods)
+
+This circular enables regulatory-compliant remote onboarding while maintaining due diligence standards.
+
+2. VIDEO IDENTIFICATION REQUIREMENTS
+
+2.1 Technical and Organizational Requirements
+- Secure video transmission with appropriate quality
+- Trained staff conducting verification
+- Session recording and documentation
+
+EXAMPLE:
+Technical implementation requirements:
+- End-to-end encrypted video connection
+- Minimum resolution suitable for document verification
+- Adequate lighting conditions for visual identification
+- Recording capability for audit purposes
+- Secure storage of verification recordings
+
+2.2 Identity Verification Process
+- Real-time interaction with verification questions
+- Document authenticity verification
+- Facial recognition comparison
+- Risk indicator monitoring
+
+EXAMPLE:
+Standard video verification process:
+1. Obtain client consent for recording
+2. Request presentation of ID document
+3. Verify security features (holograms, patterns)
+4. Direct client to move ID to verify security elements
+5. Compare face with ID photo with various angles
+6. Ask verification questions from ID and other information
+7. Document entire process with timestamps
+
+2.3 High-Risk Situations
+- Identification of risk indicators
+- Enhanced verification procedures
+- Abort conditions
+
+EXAMPLE:
+Risk indicators requiring additional measures:
+- Poor video quality or lighting
+- Suspicious client behavior (reading answers, looking off-camera)
+- Document inconsistencies or damage
+- Difficulty answering verification questions
+- Documentation of risk assessment and additional steps taken
+
+3. ONLINE IDENTIFICATION REQUIREMENTS
+
+3.1 Document Verification
+- Digital submission of identification documents
+- Verification of authenticity features
+- Comparison with databases
+
+EXAMPLE:
+Online verification implementation:
+- Secure document upload portal
+- High-resolution image capture
+- Automated security feature verification
+- Cross-check against document databases (e.g., PRADO)
+- Machine-readable zone (MRZ) validation
+
+3.2 Verification Transaction
+- Bank transfer from pre-existing account
+- Verification of account ownership
+- Transaction amount requirements
+
+EXAMPLE:
+Transaction verification process:
+1. Client uploads identification documents
+2. System performs initial verification
+3. Client makes micro-transfer from personal bank account
+4. System matches transfer details with provided identity
+5. Both verification elements must align for approval
+
+3.3 Digital Signature Requirements
+- Qualified electronic signature standards
+- Verification of signature validity
+- Documentation requirements
+
+EXAMPLE:
+Digital signature implementation:
+- Integration with qualified e-signature provider
+- Identity verification before signature creation
+- Validation of signature certificate
+- Documentation of signature verification process
+
+4. LIVENESS DETECTION
+
+4.1 Anti-Fraud Measures
+- Ensure real person is present
+- Prevent use of photos or recordings
+- Dynamic verification techniques
+
+EXAMPLE:
+Liveness detection methods:
+- Random movement instructions during video call
+- Unpredictable verification questions
+- Biometric analysis of facial movements
+- Challenge-response verification
+- AI-based spoofing detection
+
+5. DOCUMENTATION AND RECORD KEEPING
+
+5.1 Required Documentation
+- Complete verification records
+- Audit trail of verification steps
+- Secure storage requirements
+
+EXAMPLE:
+Documentation requirements:
+- Video recordings of verification sessions
+- Timestamps of verification process steps
+- Copies of identification documents submitted
+- Results of document authenticity checks
+- Verification transaction details (if applicable)
+- Staff member conducting verification
+- Risk assessment and decision documentation
+
+6. IMPLEMENTATION MODELS
+
+6.1 In-House Implementation
+- Financial institution operates own verification system
+- Direct staff training and supervision
+- Internal control system
+
+EXAMPLE:
+In-house implementation requirements:
+- Dedicated verification technology
+- Staff training program
+- Quality control procedures
+- Regular compliance reviews
+- Documentation of verification processes
+
+6.2 Outsourcing to Service Provider
+- Third-party verification services
+- Oversight and control requirements
+- Delegation agreement documentation
+
+EXAMPLE:
+Outsourcing implementation requirements:
+- Formal delegation agreement
+- Service provider due diligence
+- Regular monitoring of service quality
+- Clear responsibility allocation
+- Contingency planning

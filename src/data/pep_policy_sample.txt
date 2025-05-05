@@ -1,0 +1,378 @@
+TITLE: Politically Exposed Persons (PEP) Policy - Swiss Implementation Guide
+
+1. PURPOSE AND SCOPE
+
+This policy establishes the framework for identifying, assessing, and managing relationships with Politically Exposed Persons (PEPs) in accordance with Swiss regulatory requirements. It applies to all business units and employees involved in customer onboarding, relationship management, and compliance functions.
+
+The policy aims to:
+- Ensure compliance with Swiss AML/CFT regulations regarding PEPs
+- Implement appropriate risk-based approaches to PEP relationships
+- Define enhanced due diligence procedures for PEP relationships
+- Establish clear roles and responsibilities for PEP management
+
+2. REGULATORY FRAMEWORK
+
+2.1 Key Regulations
+- Federal Act on Combating Money Laundering and Terrorist Financing (AMLA)
+- Anti-Money Laundering Ordinance (AMLO)
+- FINMA Anti-Money Laundering Ordinance (AMLO-FINMA)
+- Agreement on the Swiss banks' code of conduct (CDB 20)
+- FATF Recommendation 12 on Politically Exposed Persons
+
+EXAMPLE:
+The latest regulatory requirements came into effect with the revision of the AMLA in 2016, which introduced specific provisions for domestic PEPs and PEPs in international organizations, in addition to the existing requirements for foreign PEPs.
+
+3. PEP DEFINITIONS AND CATEGORIES
+
+3.1 Categories of PEPs
+- Foreign PEPs: Persons who hold or have held prominent public functions abroad
+- Domestic PEPs: Persons who hold or have held prominent public functions in Switzerland
+- International Organization PEPs: Persons with leading functions in international organizations
+
+EXAMPLE:
+PEP categories include:
+- Foreign PEP: Finance Minister of a foreign country
+- Domestic PEP: Member of the Swiss Federal Council
+- International Organization PEP: UN Secretary-General
+- Family member: Spouse of a government minister
+- Close associate: Business partner of a political figure
+
+3.2 Time Limitations and De-classification
+- PEP status continues for at least 12 months after leaving office
+- Risk-based approach to determine when PEP status can be removed
+- Documentation of de-classification decisions
+
+EXAMPLE:
+For a former foreign minister who left office three years ago:
+- Assess current activities and connections to politics
+- Review media and reputation for adverse information
+- Document rationale if downgrading from PEP status
+- Maintain enhanced monitoring for at least 12 months after downgrade
+
+4. RISK CATEGORIZATION
+
+4.1 Risk Classification Framework
+- Foreign PEPs automatically classified as high-risk
+- Domestic and International Organization PEPs assessed based on additional risk factors
+- Family members and close associates follow same classification as connected PEP
+
+EXAMPLE:
+Risk classification process:
+- Identify all relevant PEP relationships during onboarding
+- Assess additional risk factors (country, business type, transaction patterns)
+- Assign appropriate risk rating based on combined factors
+- Document rationale for risk classification decision
+- Review and update risk classification periodically
+
+4.2 Additional Risk Factors
+- Country risk (corruption perception index)
+- Industry/sector risk
+- Complexity of structures
+- Transaction volume and patterns
+- Negative media or reputation
+
+EXAMPLE:
+High-risk indicators include:
+- PEP from country with high corruption index
+- Involvement in high-risk industries (defense, mining, infrastructure)
+- Complex ownership structures or use of offshore entities
+- Unexplained wealth relative to official position
+- Adverse media regarding allegations of corruption
+
+5. DUE DILIGENCE MEASURES
+
+5.1 Standard Due Diligence
+- Identification and verification of customer
+- Beneficial ownership determination
+- Understanding nature and purpose of relationship
+- Ongoing monitoring commensurate with risk
+
+EXAMPLE:
+For all clients, including potential PEPs:
+- Verify identity using government-issued photo ID
+- Determine beneficial ownership using appropriate forms
+- Document source of funds for account opening
+- Establish expected transaction profile
+- Implement appropriate monitoring parameters
+
+5.2 Enhanced Due Diligence for PEPs
+- Senior management approval
+- Source of wealth and funds verification
+- Enhanced ongoing monitoring
+- More frequent relationship reviews
+
+EXAMPLE:
+Enhanced measures for high-risk PEP:
+- Obtain extensive documentation of wealth origins
+- Verify source of funds for each significant transaction
+- Cross-reference public information on assets and income
+- Conduct enhanced media and database searches
+- Perform more frequent and detailed transaction reviews
+- Document senior management approval process
+
+6. PEP SCREENING PROCEDURES
+
+6.1 Initial Screening
+- Screen all new clients against PEP databases
+- Include family members and known associates
+- Document all screening results
+
+EXAMPLE:
+Initial screening implementation:
+- Implement automated screening against comprehensive PEP database
+- Include name variations and transliterations in search
+- Screen all related parties (authorized signatories, beneficial owners)
+- Document all hits, including false positives and resolution
+- Escalate confirmed matches to Compliance for review
+
+6.2 Ongoing Screening
+- Regular rescreening of entire client base
+- Additional screening when circumstances change
+- Immediate review of potential matches
+
+EXAMPLE:
+Ongoing screening protocol:
+- Conduct automated daily screening of entire customer base
+- Perform enhanced screening when media alerts are received
+- Implement immediate review process for potential matches
+- Document all screening activities and results
+- Report screening metrics to senior management monthly
+
+7. APPROVAL AND ESCALATION PROCEDURES
+
+7.1 New Relationship Approval
+- Compliance Officer preliminary review
+- Senior management approval required for all PEPs
+- Executive-level approval for high-risk PEPs
+- Documentation of approval rationale
+
+EXAMPLE:
+Approval workflow for foreign PEP:
+1. Relationship Manager completes enhanced due diligence
+2. Compliance Officer reviews documentation and risk assessment
+3. Compliance Officer prepares recommendation memo
+4. Senior management reviews and approves/rejects relationship
+5. Decision is documented with detailed rationale
+6. Approval conditions and monitoring requirements specified
+
+7.2 Ongoing Relationship Reviews
+- Annual review required for all PEP relationships
+- Senior management reapproval documented
+- Assessment of continued appropriateness of relationship
+
+EXAMPLE:
+Annual review process:
+- Review transaction activity against expected profile
+- Update KYC information and beneficial ownership
+- Refresh PEP status verification
+- Confirm source of funds for significant transactions
+- Reassess risk rating and appropriateness of relationship
+- Document senior management reapproval
+
+8. TRANSACTION MONITORING
+
+8.1 Enhanced Monitoring Parameters
+- Lower thresholds for alert generation
+- More comprehensive alert investigation
+- Higher frequency of relationship reviews
+- Special attention to high-risk transaction types
+
+EXAMPLE:
+Enhanced monitoring configuration:
+- Set alert thresholds 50% lower than standard clients
+- Implement special scenarios for politically sensitive industries
+- Flag all cross-border transactions for review
+- Monitor for unusual patterns in transaction timing or amounts
+- Create alerts for sudden increases in account activity
+- Document all alert investigations in detail
+
+8.2 Alert Investigation
+- Detailed review of transaction context
+- Source of funds verification
+- Plausibility assessment
+- Documentation of findings
+
+EXAMPLE:
+Alert investigation procedure:
+1. Review transaction details and supporting documentation
+2. Compare activity to expected transaction profile
+3. Request additional information if needed
+4. Document source of funds verification
+5. Assess plausibility and business rationale
+6. Document decision and rationale
+7. Escalate suspicious activity for SAR consideration
+
+9. SUSPICIOUS ACTIVITY REPORTING
+
+9.1 Reporting Criteria
+- Unusual or suspicious transactions
+- Inability to verify source of funds
+- Negative media indicating corruption
+- Transactions inconsistent with profile
+
+EXAMPLE:
+Reportable scenarios include:
+- Large cash deposits with unclear source
+- Transactions linked to high-risk jurisdictions
+- Funds from government contracts without proper documentation
+- Third-party payments without clear business purpose
+- Significant transactions following political events
+- Media reports of corruption investigations
+
+9.2 Reporting Process
+- Internal investigation and documentation
+- Decision by designated Compliance Officer
+- Filing through goAML system
+- Asset freezing measures when required
+- Confidentiality requirements
+
+EXAMPLE:
+Reporting workflow:
+1. Document suspicious activity and investigation findings
+2. Prepare internal suspicious activity report
+3. Compliance Officer/Committee reviews and approves
+4. Submit report to MROS via goAML within required timeframe
+5. Implement transaction monitoring restrictions
+6. Maintain strict confidentiality regarding report
+
+10. DOCUMENTATION REQUIREMENTS
+
+10.1 Required Documentation
+- PEP identification and category
+- Risk assessment and classification
+- Enhanced due diligence measures
+- Approval decisions and rationale
+- Ongoing monitoring results
+- Periodic reviews
+
+EXAMPLE:
+PEP file documentation checklist:
+- Completed PEP identification form
+- Risk assessment worksheet with scoring
+- Source of wealth detailed documentation
+- Source of funds verification for major transactions
+- Senior management approval memo
+- Annual relationship review reports
+- Transaction monitoring alert investigations
+- Media and database screening results
+
+10.2 Record Retention
+- Maintain all PEP-related documentation for at least 10 years
+- Ensure accessibility for audit and regulatory purposes
+- Secure storage with appropriate access controls
+
+EXAMPLE:
+Record management system:
+- Secure digital storage of all PEP documentation
+- Retention period tracking and enforcement
+- Access controls limiting information to authorized personnel
+- Regular testing of retrieval capabilities
+- Audit trails for all document access and modifications
+
+11. ROLES AND RESPONSIBILITIES
+
+11.1 Business/Front Office
+- Initial identification of potential PEPs
+- Collection of enhanced due diligence information
+- First-level transaction monitoring
+- Escalation of concerns to Compliance
+
+EXAMPLE:
+Relationship Manager responsibilities:
+- Screen clients for PEP status during onboarding
+- Collect comprehensive client information including source of wealth
+- Remain alert to changes in client profile or behavior
+- Escalate unusual activities or concerns promptly
+- Document client interactions related to unusual activity
+
+11.2 Compliance Function
+- PEP determination and risk assessment
+- Enhanced due diligence oversight
+- Second-level transaction monitoring
+- Suspicious activity investigation and reporting
+- Policy maintenance and training
+
+EXAMPLE:
+Compliance Officer duties:
+- Review and validate PEP classifications
+- Conduct enhanced due diligence quality assurance
+- Approve risk ratings and monitoring parameters
+- Investigate escalated unusual activities
+- Make decisions regarding suspicious activity reporting
+- Coordinate regulatory examinations related to PEPs
+
+11.3 Senior Management
+- Approval of high-risk PEP relationships
+- Oversight of PEP risk management
+- Resource allocation for compliance functions
+- Setting risk appetite and policy
+
+EXAMPLE:
+Senior management responsibilities:
+- Review and approve high-risk PEP relationships
+- Receive and review regular PEP portfolio metrics
+- Ensure adequate staffing for PEP compliance
+- Review and approve PEP policy and procedures
+- Set clear risk appetite regarding PEP business
+
+12. TRAINING AND AWARENESS
+
+12.1 Training Requirements
+- Role-specific PEP training
+- Annual refresher training
+- Documentation of training completion
+- Assessment of training effectiveness
+
+EXAMPLE:
+Training program elements:
+- Onboarding training for all new staff
+- Role-specific modules for front office, compliance, and management
+- Annual certification program for all staff
+- Case study exercises based on real scenarios
+- Testing of knowledge and procedures
+- Documentation of attendance and test results
+
+12.2 Training Content
+- Regulatory requirements
+- PEP identification methods
+- Risk assessment procedures
+- Enhanced due diligence requirements
+- Red flags and warning signs
+- Escalation procedures
+
+EXAMPLE:
+Training curriculum topics:
+- Swiss PEP regulations and recent updates
+- PEP identification techniques and common challenges
+- Risk-based approach to PEP relationships
+- Documentation requirements for PEP files
+- Case studies of PEP-related money laundering schemes
+- Consequences of non-compliance
+
+APPENDIX A: RED FLAGS FOR PEP RELATIONSHIPS
+
+Warning signs requiring enhanced scrutiny:
+- Reluctance to provide information about source of wealth
+- Transactions inconsistent with stated purpose of relationship
+- Use of complex legal structures without clear business purpose
+- Transactions involving government contracts or privatizations
+- Connections to jurisdictions with high corruption indexes
+- Negative media regarding corruption allegations
+- Unexplained wealth relative to official position
+- Use of third parties or proxies for transactions
+- Frequent large cash transactions
+- Sudden increases in transaction volume following political events
+
+APPENDIX B: PEP POSITION EXAMPLES
+
+Examples of positions typically considered as PEPs:
+- Heads of State, heads of government, ministers, deputy ministers
+- Members of parliament or similar legislative bodies
+- Members of supreme courts, constitutional courts
+- High-ranking military officers (generals, admirals)
+- Members of courts of auditors or central bank boards
+- Ambassadors, chargés d'affaires
+- Senior executives of state-owned enterprises
+- Directors, deputy directors of international organizations
+- Members of executive boards of international organizations
+- Senior officials of major political parties
